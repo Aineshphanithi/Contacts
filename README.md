@@ -1,5 +1,5 @@
 # Contacts
-A simple Database that take's a person's name,email id and mobile number and displays it in the form of a table.
+A simple Database that take's a person's name,email id and mobile number and displays it in the form of a table, made using Typescript.
 
 
 The first step to use this repository is clone the repository and install these npm modules :
